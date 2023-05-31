@@ -44,4 +44,11 @@
   <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/blender-F5792A?style=for-the-badge&amp;logo=blender&amp;logoColor=white" alt="Blender">
   <img src="https://img.shields.io/badge/.env-F5792A?style=for-the-badge&amp;logo=dotenv&amp;logoColor=white" alt=".env">
+  <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/symfony-000000?style=for-the-badge&amp;logo=symfony&amp;logoColor=white" alt="Symfony">
+  <img src="https://img.shields.io/badge/laravel_nova-252D37?style=for-the-badge&amp;logo=laravelnova&amp;logoColor=white" alt="Laravel Nova">
+  <img src="https://img.shields.io/badge/cinema4d-011A6A?style=for-the-badge&amp;logo=cinema4d&amp;logoColor=white" alt="Cinema4d">
+  <img src="https://img.shields.io/badge/fontawesome-528DD7?style=for-the-badge&amp;logo=fontawesome&amp;logoColor=white" alt="fontawesome">
+  <img src="https://img.shields.io/badge/apple-000000?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="apple">
+  <img src="https://img.shields.io/badge/salesforce-00A1E0?style=for-the-badge&amp;logo=salesforce&amp;logoColor=white" alt="salesforce">
 </p>
